@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Notes_MVC:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Notes_MVC_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Notes_MVC/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
